@@ -1,0 +1,7 @@
+Sources studied/used (some partially) for this repository:
+ 
+
+- Brownlee Jason : Machine Learning Mastery Books
+- Goodfellow Ian:  Deep Learning
+- Ng Andrew: Deep Learning Specialization (Course Coursera)
+
